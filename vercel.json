@@ -2,8 +2,7 @@
     "version": 1,
     "builds": [
         {
-            "src": "*.py",
-            "use": "@heysouravv/txtme.at"
+            "src": "*.py"
         }
     ],
     "routes": [
